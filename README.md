@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm vikram</h1>
-<h3 align="center">🚀 Hi, I'm **Vikram**, a passionate **Java Full-Stack Developer** skilled in **Java, Spring Boot, Hibernate, Angular/React & MySQL**! 💡 I love solving complex problems, optimizing performance, and building scalable web applications. 🔥 Eager to innovate, learn, and grow in a dynamic development environment! 💻✨</h3>
+<h1 align="center">Hi 👋, I'm tharun</h1>
+<h3 align="center">🚀 Hi, I'm **Tharun**, a passionate **Java Full-Stack Developer** skilled in **Java, Spring Boot, Hibernate, Angular/React & MySQL**! 💡 I love solving complex problems, optimizing performance, and building scalable web applications. 🔥 Eager to innovate, learn, and grow in a dynamic development environment! 💻✨</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharunveer24&label=Profile%20views&color=0e75b6&style=flat" alt="tharunveer24" /> </p>
